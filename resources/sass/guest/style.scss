@@ -6,7 +6,7 @@
 
 // // Bootstrap
 // @import '~bootstrap/scss/bootstrap';
+@import url('./_generals.scss');
+@import url('./_utilities.scss');
 
-body{
-    background-color: aqua;
-}
+
